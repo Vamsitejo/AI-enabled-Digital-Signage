@@ -76,7 +76,7 @@ The following libraries are used across the project:
 Install required third-party dependencies using:
 
 ```bash
-pip install opencv-python numpy
+pip install opencv-python numpy PyQt5 ffpyplayer
 ```
 
 ---
